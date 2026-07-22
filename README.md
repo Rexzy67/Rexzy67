@@ -18,7 +18,7 @@ Im am a Discord Bot Developer that does some small Projects from Time to Time, i
 
 - ⌖ **Location** · Neuwied, Germany
 - ⌗ **Experience** · 2 Years in Python Development
-- ⟳ **Learning** · C++
+- ⟳ **Learning** · HTML/CSS/Cpp
 - ✦ **Fun fact** · on the more younger side of Developers
 
 ### Featured Projects
@@ -31,18 +31,6 @@ Im am a Discord Bot Developer that does some small Projects from Time to Time, i
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=python,lua,cpp,cs,java,html,css,js&theme=dark" alt="Languages"/>
-
-**Backend & Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Backend & Databases"/>
-
-**DevOps & Cloud**
-
-<img src="https://skillicons.dev/icons?i=git,linux,vscode&theme=dark" alt="DevOps & Cloud"/>
-
-**AI / ML**
-
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="AI / ML"/>
 
 ### Languages
 - 🇩🇪 **German** · ![Native](https://img.shields.io/badge/-Native-00e87a?style=flat-square)
