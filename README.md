@@ -15,21 +15,15 @@
 ### About
 
 Im am a Discord Bot Developer that does some small Projects from Time to Time, i do NOT take bot requests
-
 - ⌖ **Location** · Neuwied, Germany
 - ⌗ **Experience** · 2 Years in Python Development
 - ⟳ **Learning** · HTML/CSS/Cpp
 - ✦ **Fun fact** · on the more younger side of Developers
-
 ### Featured Projects
-
-- [Sakultendo](https://github.com/Rexzy67/Sakultendo) — Private Bot, to manage a Specific Server im on.
 - [TaCL](https://github.com/Rexzy67/The-Awesome-Challenge-List) — A Geometry Dash Challenge list for a nieche Community.
 
 ### Stack
-
 **Languages**
-
 <img src="https://skillicons.dev/icons?i=python,lua,cpp,cs,java,html,css,js&theme=dark" alt="Languages"/>
 
 ### Languages
@@ -39,13 +33,6 @@ Im am a Discord Bot Developer that does some small Projects from Time to Time, i
 - 🇫🇷 **French** · ![Basic](https://img.shields.io/badge/-Basic-ff4444?style=flat-square)
 
 ### GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rexzy67&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="Rexzy stats"/> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rexzy67&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Rexzy top languages"/>
-
-</div>
-
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Rexzy67&theme=github_dark&hide_border=true)](https://git.io/streak-stats)
