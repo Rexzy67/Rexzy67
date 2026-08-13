@@ -21,7 +21,7 @@ Im am a Discord Bot Developer that does some small Projects from Time to Time, i
 - ✦ **Fun fact** · on the more younger side of Developers
 ### Featured Projects
 - [TaCL](https://github.com/Rexzy67/The-Awesome-Challenge-List) — A Geometry Dash Challenge list for a nieche Community.
-- [Rexzys Recoil Script](https://github.com/Rexzy67/RCC) — A Rainbow 6 Siege Recoil Script.
+- [Rexzys Recoil Script](https://github.com/Rexzy67/RRC) — A Rainbow 6 Siege Recoil Script.
 ### Stack
 **Languages**
 
